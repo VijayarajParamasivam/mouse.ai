@@ -25,4 +25,4 @@ Desktop.ini
 .DS_Store
 
 # Config (uncomment if secrets are stored here)
-# config.json
+config.json
