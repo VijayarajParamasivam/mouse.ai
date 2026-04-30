@@ -1,5 +1,5 @@
 {
-  "api_key": "AIzaSyDuNOtypsSsldXPvg9qYtfi-bZ3a9SK4q8",
+  "api_key": "API_KEY",
   "hotkey": "alt+a",
   "auto_dismiss_seconds": 15,
   "model": "gemini-2.5-flash",
